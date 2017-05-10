@@ -27,3 +27,4 @@ This is inicial weapon of knowledge
 - http://marcogomes.com/blog/
 - http://www.kes.do/knowledge
 - http://www.theverge.com/
+- https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types
