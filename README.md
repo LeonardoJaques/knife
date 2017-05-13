@@ -29,3 +29,13 @@ This is inicial weapon of knowledge
 - http://www.theverge.com/
 - https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types
 - http://www.guj.com.br/
+
+-- javascript(ECMAScript)
+
+Working with objects -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
+
+
+
+
+
