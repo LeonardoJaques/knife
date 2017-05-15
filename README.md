@@ -37,6 +37,8 @@ Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
 
 -- learn about cordova and phoneGap
   http://docs.phonegap.com/phonegap-build/configuring/preferences/
+  Android -- https://developer.android.com/studio/install.html
+  Java Se -- http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 
 
