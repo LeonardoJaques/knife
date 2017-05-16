@@ -38,7 +38,9 @@ Read about - http://www.typescriptlang.org/docs/home.html
 
 
 -- learn about cordova and phoneGap
-  http://docs.phonegap.com/phonegap-build/configuring/preferences/
+  - adobe: (Pay) http://docs.phonegap.com/phonegap-build/configuring/preferences/
+  - apache (Open Soucer) https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
+  
   Android -- https://developer.android.com/studio/install.html
   Java Se -- http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
   Design frameworks -- https://design.google.com/
