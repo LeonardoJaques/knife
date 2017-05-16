@@ -34,6 +34,8 @@ This is inicial weapon of knowledge
 
 Working with objects -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
+Read about - http://www.typescriptlang.org/docs/home.html
+
 
 -- learn about cordova and phoneGap
   http://docs.phonegap.com/phonegap-build/configuring/preferences/
@@ -43,6 +45,8 @@ Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
                     -- https://elements.polymer-project.org/
                     -- https://getmdl.io/components/index.html
                     -- http://materializecss.com/mobile.html
+                    
+ 
                     
                     
   
