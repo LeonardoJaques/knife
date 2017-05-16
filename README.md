@@ -50,7 +50,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- learn abou chalenger - https://github.com/LFeh/frontend-challenges                    
                     
  
-                    
+-- class abour css name -- http://getbem.com/naming/                    
                     
   
 
