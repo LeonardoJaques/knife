@@ -47,11 +47,10 @@ Read about - http://www.typescriptlang.org/docs/home.html
                     -- https://elements.polymer-project.org/
                     -- https://getmdl.io/components/index.html
                     -- http://materializecss.com/mobile.html
-                    
+  responsive desing -- https://www.w3.org/TR/css3-mediaqueries/ 
                     
 -- learn abou chalenger - https://github.com/LFeh/frontend-challenges                    
                     
- 
 -- class abour css name -- http://getbem.com/naming/  
 
 -- Jquery: http://api.jquery.com/
