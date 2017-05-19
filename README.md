@@ -54,6 +54,8 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- class abour css name -- http://getbem.com/naming/  
 
 -- Jquery: http://api.jquery.com/
+
+-- http: https://httpstatusdogs.com/
                     
   
 
