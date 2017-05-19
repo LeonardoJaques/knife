@@ -56,6 +56,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- Jquery: http://api.jquery.com/
 
 -- http: https://httpstatusdogs.com/
+         https://httpstatuses.com/
                     
   
 
