@@ -48,6 +48,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
                     -- https://getmdl.io/components/index.html
                     -- http://materializecss.com/mobile.html
   responsive desing -- https://www.w3.org/TR/css3-mediaqueries/ 
+         Jpg tricks -- http://www.jpegmini.com/
                     
 -- learn abou chalenger - https://github.com/LFeh/frontend-challenges                    
                     
