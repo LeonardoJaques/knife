@@ -29,6 +29,7 @@ This is inicial weapon of knowledge
 - http://www.theverge.com/
 - https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types
 - http://www.guj.com.br/
+- http://httparchive.org/
 
 -- javascript(ECMAScript)
 
