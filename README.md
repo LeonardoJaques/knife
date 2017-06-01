@@ -67,6 +67,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
 
 -- Web test:  https://www.webpagetest.org/
               https://developers.google.com/speed/pagespeed/insights/?hl=pt-BR
+              https://developers.google.com/speed/pagespeed/insights/
 -- web statics: https://wpostats.com/
 
 
