@@ -32,6 +32,7 @@ This is inicial weapon of knowledge
 - http://httparchive.org/
 
 -- javascript(ECMAScript)
+                        http://javascript.info/
 
 Working with objects -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
