@@ -75,3 +75,5 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- web bugets:  http://www.performancebudget.io/
                 https://browserdiet.com/calories/
 
+-- Angula JS : https://docs.angularjs.org/guide/introduction
+
