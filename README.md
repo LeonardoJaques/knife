@@ -52,7 +52,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
   responsive desing -- https://www.w3.org/TR/css3-mediaqueries/ 
          Jpg tricks -- http://www.jpegmini.com/
                     
--- learn abou chalenger - https://github.com/LFeh/frontend-challenges                    
+-- learn about chalenger - https://github.com/LFeh/frontend-challenges                    
                     
 -- class abour css name -- http://getbem.com/naming/  
 
