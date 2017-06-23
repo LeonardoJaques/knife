@@ -54,7 +54,9 @@ Read about - http://www.typescriptlang.org/docs/home.html
                     
 -- learn about chalenger - https://github.com/LFeh/frontend-challenges                    
                     
--- class abour css name -- http://getbem.com/naming/  
+-- Exercice in portuguese - https://github.com/codehelper101/Exercicios
+
+-- class abour css name -- http://getbem.com/naming/ 
 
 -- Jquery: http://api.jquery.com/
 
