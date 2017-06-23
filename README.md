@@ -61,7 +61,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- http: https://httpstatusdogs.com/
          https://httpstatuses.com/
                     
--- Sassa and css triks: https://css-tricks.com/almanac/properties/f/filter/
+-- Sass and css triks: https://css-tricks.com/almanac/properties/f/filter/
                         http://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/
                         http://engageinteractive.co.uk/blog/top-10-scss-mixins
                         http://sass-lang.com/documentation/Sass/Script/Functions.html
@@ -78,4 +78,6 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- Angula JS: https://docs.angularjs.org/guide/introduction
 
 -- Git-cola:  http://git-cola.github.io/downloads.html
+
+-- Make a project - http://setupmyproject.com/
 
