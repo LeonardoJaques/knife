@@ -87,3 +87,5 @@ Read about - http://www.typescriptlang.org/docs/home.html
 
 -- Make a project - http://setupmyproject.com/
 
+-- Google deveoloper News - https://developers.google.com/web/updates/2017/06/supercharged-codesplit
+
