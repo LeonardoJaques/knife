@@ -90,3 +90,9 @@ Read about - http://www.typescriptlang.org/docs/home.html
 
 -- Google deveoloper News - https://developers.google.com/web/updates/2017/06/supercharged-codesplit
 
+-- Make a project - Home automation with Raspberry Pi, Node and React:
+ https://viktorkirilov.me/post/home-automation-raspberry-pi/?utm_content=buffer48009&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+        
+
+
+
