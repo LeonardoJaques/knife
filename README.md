@@ -92,6 +92,8 @@ Read about - http://www.typescriptlang.org/docs/home.html
 
 -- Make a project - Home automation with Raspberry Pi, Node and React:
  https://viktorkirilov.me/post/home-automation-raspberry-pi/?utm_content=buffer48009&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+ 
+ https://www.pluralsight.com/ -- learn curso
         
 
 
