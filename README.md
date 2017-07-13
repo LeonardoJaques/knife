@@ -98,6 +98,7 @@ Read about - http://www.typescriptlang.org/docs/home.html
  https://www.wired.com -- information
  https://builtwith.com/
 https://www.youtube.com/playlist?list=PLY_uhcGau40Ob8NjsLjThfP9CMUC3aHAJ
+https://www.packtpub.com/
         
 
 
