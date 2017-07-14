@@ -93,13 +93,14 @@ Read about - http://www.typescriptlang.org/docs/home.html
 -- Make a project - Home automation with Raspberry Pi, Node and React:
  https://viktorkirilov.me/post/home-automation-raspberry-pi/?utm_content=buffer48009&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
  
- https://www.pluralsight.com/ -- learn course
+https://www.pluralsight.com/ -- learn course
  
- https://www.wired.com -- information
- https://builtwith.com/
+https://www.wired.com -- information
+https://builtwith.com/
 https://www.youtube.com/playlist?list=PLY_uhcGau40Ob8NjsLjThfP9CMUC3aHAJ
 https://www.packtpub.com/
         
-
+-- Book about ai
+http://neuralnetworksanddeeplearning.com/about.html
 
 
