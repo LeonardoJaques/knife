@@ -104,3 +104,7 @@ https://www.packtpub.com/
 http://neuralnetworksanddeeplearning.com/about.html
 
 
+Download de apk - https://apkpure.com/
+
+
+
