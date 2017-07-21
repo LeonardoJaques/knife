@@ -105,6 +105,6 @@ http://neuralnetworksanddeeplearning.com/about.html
 
 
 Download de apk - https://apkpure.com/
-
+- skills - https://github.com/jnv/lists
 
 
