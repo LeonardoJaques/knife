@@ -107,4 +107,5 @@ http://neuralnetworksanddeeplearning.com/about.html
 Download de apk - https://apkpure.com/
 - skills - https://github.com/jnv/lists
 
-
+-- teste de modelos de negocio em js
+   https://jasmine.github.io/2.0/introduction.html
