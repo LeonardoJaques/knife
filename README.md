@@ -109,3 +109,5 @@ Download de apk - https://apkpure.com/
 
 -- teste de modelos de negocio em js
    https://jasmine.github.io/2.0/introduction.html
+   
+-- guide for quick information - https://guide.freecodecamp.org/   
