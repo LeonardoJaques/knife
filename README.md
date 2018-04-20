@@ -111,3 +111,4 @@ Download de apk - https://apkpure.com/
    https://jasmine.github.io/2.0/introduction.html
    
 -- guide for quick information - https://guide.freecodecamp.org/   
+-- npm list --depth=0 - verificando a arvore de dependencias.
