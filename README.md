@@ -113,3 +113,5 @@ Download de apk - https://apkpure.com/
 -- guide for quick information - https://guide.freecodecamp.org/   
 -- npm list --depth=0 - verificando a arvore de dependencias.
 -- Trello - projetc management - https://trello.com/
+-- traing and develop a good code 01 - https://www.codingame.com
+-- traing and develop a good code 02 - https://codefights.com
