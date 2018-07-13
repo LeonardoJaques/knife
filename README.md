@@ -113,5 +113,19 @@ Download de apk - https://apkpure.com/
 -- guide for quick information - https://guide.freecodecamp.org/   
 -- npm list --depth=0 - verificando a arvore de dependencias.
 -- Trello - projetc management - https://trello.com/
+
 -- traing and develop a good code 01 - https://www.codingame.com
 -- traing and develop a good code 02 - https://codefights.com
+
+-- hints - Operador Ternario
+  // int valorA = 1;
+  // int result = (valorA == 1)?3:2;
+  // condição = (valorA == 1)
+  // ? = indica o final da condição.
+  // 3 = valor se a condição for verdadeira.
+  // : = separação do valor verdadeiro e do valor falso.
+  // 2 = valor para a condição falsa.
+
+  // neste exemplo result receberá 3.
+
+
