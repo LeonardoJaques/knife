@@ -116,7 +116,7 @@ Download de apk - https://apkpure.com/
 
 -- traing and develop a good code 01 - https://www.codingame.com
 -- traing and develop a good code 02 - https://codefights.com
-
+-- traing and develop a good code 02 - https://leetcode.com/
 -- hints - Operador Ternario
   // int valorA = 1;
   // int result = (valorA == 1)?3:2;
