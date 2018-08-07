@@ -125,7 +125,8 @@ Download de apk - https://apkpure.com/
   // 3 = valor se a condição for verdadeira.
   // : = separação do valor verdadeiro e do valor falso.
   // 2 = valor para a condição falsa.
-
   // neste exemplo result receberá 3.
+-- Criação de apresentações em python - http://jupyter.org/ 
+  
 
 
