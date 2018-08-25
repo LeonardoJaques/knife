@@ -127,6 +127,10 @@ Download de apk - https://apkpure.com/
   // 2 = valor para a condição falsa.
   // neste exemplo result receberá 3.
 -- Criação de apresentações em python - http://jupyter.org/ 
+
+-- Market in IT
+   https://www.payscale.com/research/US
+   https://insights.stackoverflow.com/survey/
   
 
 
