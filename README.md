@@ -132,5 +132,9 @@ Download de apk - https://apkpure.com/
    https://www.payscale.com/research/US
    https://insights.stackoverflow.com/survey/
   
+-- Pratics - every day!!!
+    - Code Katas: The second idea is similar is a Kata.  Japanese for form or pattern, Kata are exercises where the novice   repeatedly tries to emulate a master.
+    - Code Dojos:  A Coding Dojo is a meeting where a bunch of coders get together to work on a programming challenge. They are there have fun and to engage in DeliberatePractice in order to improve their skills. 
+    - Code koans: A Koan is a Zen Buddhism story or statement that focuses not on a rational answer but more of an intuitive one. These lessons intend the answerer to look beyond the obvious for a deeper smarter more meaningful answer
 
 
