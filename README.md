@@ -140,4 +140,11 @@ Download de apk - https://apkpure.com/
 
     - Code koans: A Koan is a Zen Buddhism story or statement that focuses not on a rational answer but more of an intuitive one. These lessons intend the answerer to look beyond the obvious for a deeper smarter more meaningful answer
 
+-- html5 
+  - https://platform.html5.org/
+  - https://html5boilerplate.com/
+  - http://www.initializr.com/
+  - https://caniuse.com/#home
+  - https://modernizr.com/
+  - http://html5please.com/
 
