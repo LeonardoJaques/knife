@@ -148,3 +148,5 @@ Download de apk - https://apkpure.com/
   - https://modernizr.com/
   - http://html5please.com/
 
+-- css3
+  - https://meyerweb.com/eric/tools/css/reset/
