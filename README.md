@@ -150,3 +150,7 @@ Download de apk - https://apkpure.com/
 
 -- css3
   - https://meyerweb.com/eric/tools/css/reset/
+
+-- TypeScript
+  - https://requirejs.org/
+  - https://www.typescriptlang.org/
