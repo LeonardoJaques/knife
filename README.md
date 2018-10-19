@@ -158,3 +158,7 @@ Download de apk - https://apkpure.com/
 -- NodeJS
   - https://nodejs.org/en/ 
   - https://www.npmjs.com/
+  - https://mochajs.org/
+  - https://koajs.com/
+  - https://jshint.com/
+  
