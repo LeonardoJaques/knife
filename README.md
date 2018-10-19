@@ -160,5 +160,6 @@ Download de apk - https://apkpure.com/
   - https://www.npmjs.com/
   - https://mochajs.org/
   - https://koajs.com/
-  - https://jshint.com/
+  - https://jshint.com
+  - https://coffeescript.org/
   
