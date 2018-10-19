@@ -154,3 +154,6 @@ Download de apk - https://apkpure.com/
 -- TypeScript
   - https://requirejs.org/
   - https://www.typescriptlang.org/
+-- NodeJS
+  - https://nodejs.org/en/ 
+  - https://www.npmjs.com/
