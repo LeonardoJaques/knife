@@ -150,6 +150,7 @@ Download de apk - https://apkpure.com/
 
 -- css3
   - https://meyerweb.com/eric/tools/css/reset/
+  - http://lesscss.org/
 
 -- TypeScript
   - https://requirejs.org/
@@ -165,5 +166,12 @@ Download de apk - https://apkpure.com/
   - https://www.npmjs.com/package/rimraf ->> The UNIX command rm -rf for Node.js
     Deep deletion (like rm -rf) module for Node.js that provides asynchronous deep- deletion of files and directories.
     The rimraf executable is a faster alternative to the rm -rf shell command.
+  - http://lesscss.org/
+  - http://browserify.org/
+  - https://www.npmjs.com/package/uglifyjs-webpack-plugin ->> UglifyJS is a JavaScript compressor/minifier written in           JavaScript. It also contains tools that allow one to automate working with JavaScript code: A parser which produces an       abstract syntax tree (AST) from JavaScript code.                                                                             A compressor (optimizer) — it uses the transformer API to optimize  an AST into a smaller one.
+  - https://www.npmjs.com/package/watch
+  - https://nodemon.io/ ->> Nodemon is a utility that will monitor for any changes in your source and automatically restart     your server. Perfect for development.
 
+
+    
 
