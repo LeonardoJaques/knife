@@ -162,4 +162,8 @@ Download de apk - https://apkpure.com/
   - https://koajs.com/
   - https://jshint.com
   - https://coffeescript.org/
-  
+  - https://www.npmjs.com/package/rimraf ->> The UNIX command rm -rf for Node.js
+    Deep deletion (like rm -rf) module for Node.js that provides asynchronous deep- deletion of files and directories.
+    The rimraf executable is a faster alternative to the rm -rf shell command.
+
+
