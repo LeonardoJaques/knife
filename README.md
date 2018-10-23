@@ -192,9 +192,9 @@ Download de apk - https://apkpure.com/
   - https://eslint.org/
 
 -- the test plan
-  1 Framework: mocha
-  2 Assertion library: chai
-  3 Helppers library: JSDOM
-  4 Where to run test: Node
-  5 Where to place tests: Alongside
-  6 When to run test: Upon Save
+  1 - Framework: mocha
+  2 - Assertion library: chai
+  3 - Helppers library: JSDOM
+  4 - Where to run test: Node
+  5 - Where to place tests: Alongside
+  6 - When to run test: Upon Save
