@@ -185,3 +185,5 @@ Download de apk - https://apkpure.com/
 -- Transpiling
   - https://babeljs.io/    
 
+-- bundlers 
+  - https://webpack.js.org/
