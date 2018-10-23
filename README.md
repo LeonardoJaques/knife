@@ -171,7 +171,10 @@ Download de apk - https://apkpure.com/
   - https://www.npmjs.com/package/uglifyjs-webpack-plugin ->> UglifyJS is a JavaScript compressor/minifier written in           JavaScript. It also contains tools that allow one to automate working with JavaScript code: A parser which produces an       abstract syntax tree (AST) from JavaScript code.                                                                             A compressor (optimizer) — it uses the transformer API to optimize  an AST into a smaller one.
   - https://www.npmjs.com/package/watch
   - https://nodemon.io/ ->> Nodemon is a utility that will monitor for any changes in your source and automatically restart     your server. Perfect for development.
-
+  - https://www.npmjs.com/package/live-reload - A live reload server & client
+  - https://semver.org/
+  - https://www.gitignore.io/
+  - https://www.heroku.com/
 
     
 
