@@ -187,3 +187,6 @@ Download de apk - https://apkpure.com/
 
 -- bundlers 
   - https://webpack.js.org/
+
+-- linting 
+  - https://eslint.org/
