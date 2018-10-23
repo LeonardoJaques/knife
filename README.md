@@ -181,5 +181,7 @@ Download de apk - https://apkpure.com/
 
 -- Share a work-in-progress via localtunnel
   - https://github.com/localtunnel/localtunnel
-    
+
+-- transpile
+  - https://babeljs.io/    
 
