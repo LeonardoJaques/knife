@@ -198,3 +198,9 @@ Download de apk - https://apkpure.com/
   4 - Where to run test: Node
   5 - Where to place tests: Alongside
   6 - When to run test: Upon Save
+
+-- Mock Http
+  - https://json-schema.org/ ->> JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
+  - 
+
+  
