@@ -208,3 +208,8 @@ Download de apk - https://apkpure.com/
 -- forms for serch 
   - https://www.typeform.com/
   
+-- Akita 
+    + CDN For Midia - https://www.cloudflare.com/pt-br/plans/
+    + CODE Reviews - https://codeclimate.com/ 
+    + Deep performance analytics - https://newrelic.com/about
+    
