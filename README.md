@@ -209,7 +209,7 @@ Download de apk - https://apkpure.com/
   - https://www.typeform.com/
   
 -- Akita 
-    + CDN For Midia - https://www.cloudflare.com/pt-br/plans/
-    + CODE Reviews - https://codeclimate.com/ 
-    + Deep performance analytics - https://newrelic.com/about
+    + CDN For Midia - https://www.cloudflare.com/pt-br/plans/ ;
+    + CODE Reviews - https://codeclimate.com/ ;
+    + Deep performance analytics - https://newrelic.com/about ;
     
