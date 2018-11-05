@@ -194,12 +194,12 @@ Download de apk - https://apkpure.com/
 -- the test plan
   <ul>
     <ol>
-      <li>1 - Framework: mocha </li>
-      <li>2 - Assertion library: chai</li>
-      <li>3 - Helppers library: JSDOM</li>
-      <li>4 - Where to run test: Node</li>
-      <li>5 - Where to place tests: Alongside</li>
-      <li>6 - When to run test: Upon Save</li>
+      <li> - Framework: mocha </li>
+      <li> - Assertion library: chai</li>
+      <li> - Helppers library: JSDOM</li>
+      <li> - Where to run test: Node</li>
+      <li> - Where to place tests: Alongside</li>
+      <li> - When to run test: Upon Save</li>
     <ol>
  </ul>
 -- Mock Http
