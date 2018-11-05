@@ -192,13 +192,16 @@ Download de apk - https://apkpure.com/
   - https://eslint.org/
 
 -- the test plan
-  1 - Framework: mocha
-  2 - Assertion library: chai
-  3 - Helppers library: JSDOM
-  4 - Where to run test: Node
-  5 - Where to place tests: Alongside
-  6 - When to run test: Upon Save
-
+  <ul>
+    <ol>
+      <li>1 - Framework: mocha </li>
+      <li>2 - Assertion library: chai</li>
+      <li>3 - Helppers library: JSDOM</li>
+      <li>4 - Where to run test: Node</li>
+      <li>5 - Where to place tests: Alongside</li>
+      <li>6 - When to run test: Upon Save</li>
+    <ol>
+ </ul>
 -- Mock Http
   - https://json-schema.org/ ->> JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
  
