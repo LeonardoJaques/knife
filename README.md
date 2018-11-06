@@ -38,7 +38,7 @@ This is inicial weapon of knowledge
 Working with objects -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 Event reference -> https://developer.mozilla.org/en-US/docs/Web/Events
 Read about - http://www.typescriptlang.org/docs/home.html
-
+Design - https://zeplin.io/why-zeplin
 
 -- learn about cordova and phoneGap
   - adobe: (Pay) http://docs.phonegap.com/phonegap-build/configuring/preferences/
@@ -134,11 +134,11 @@ Download de apk - https://apkpure.com/
   
 -- Pratics - every day!!!
   
-    - Code Katas: The second idea is similar is a Kata.  Japanese for form or pattern, Kata are exercises where the novice   repeatedly tries to emulate a master. - link https://github.com/gamontal/awesome-katas
+  <blockquote>	  - Code Katas: The second idea is similar is a Kata.  Japanese for form or pattern, Kata are exercises where the novice   repeatedly tries to emulate a master. - link https://github.com/gamontal/awesome-katas
     
     - Code Dojos:  A Coding Dojo is a meeting where a bunch of coders get together to work on a programming challenge. They are there have fun and to engage in DeliberatePractice in order to improve their skills. 
 
-    - Code koans: A Koan is a Zen Buddhism story or statement that focuses not on a rational answer but more of an intuitive one. These lessons intend the answerer to look beyond the obvious for a deeper smarter more meaningful answer
+    - Code koans: A Koan is a Zen Buddhism story or statement that focuses not on a rational answer but more of an intuitive one. These lessons intend the answerer to look beyond the obvious for a deeper smarter more meaningful answer </blockquote>	
 
 -- html5 
   - https://platform.html5.org/
