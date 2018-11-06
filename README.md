@@ -191,8 +191,7 @@ Download de apk - https://apkpure.com/
 -- linting 
   - https://eslint.org/
 
--- the test plan
-  <ul>
+  <ul> -- the test plan
     <ol>
       <li> - Framework: mocha </li>
       <li> - Assertion library: chai</li>
@@ -202,6 +201,7 @@ Download de apk - https://apkpure.com/
       <li> - When to run test: Upon Save</li>
     <ol>
  </ul>
+
 -- Mock Http
   - https://json-schema.org/ ->> JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
  
