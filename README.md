@@ -132,50 +132,53 @@ Download de apk - https://apkpure.com/
    https://www.payscale.com/research/US
    https://insights.stackoverflow.com/survey/
   
--- <p>Pratics - every day!!!</p>
+<p> -- Pratics - every day!!!</p>
   <bockquote>
           <ul>
-            <li>Code Katas: The second idea is similar is a Kata.  Japanese for form or pattern, Kata are exercises where the novice repeatedly tries to emulate a master. - link https://github.com/gamontal/awesome-katas</li>
+            <li>Code Katas: The second idea is similar is a Kata.  Japanese for form or pattern, Kata are exercises where    the novice repeatedly tries to emulate a master. - link https://github.com/gamontal/awesome-katas</li>
     <li>Code Dojos:  A Coding Dojo is a meeting where a bunch of coders get together to work on a programming challenge. They are there have fun and to engage in DeliberatePractice in order to improve their skills.</li>
     <li>Code koans: A Koan is a Zen Buddhism story or statement that focuses not on a rational answer but more of an intuitive one. These lessons intend the answerer to look beyond the obvious for a deeper smarter more meaningful answer</li> 	          <ul>  
   </bockquote>
 
--- html5 
-  - https://platform.html5.org/
-  - https://html5boilerplate.com/
-  - http://www.initializr.com/
-  - https://caniuse.com/#home
-  - https://modernizr.com/
-  - http://html5please.com/
+<p>html5</p> 
+  <ul>
+  <li>https://platform.html5.org/</li>
+  <li>https://html5boilerplate.com/</li>
+  <li>http://www.initializr.com/</li>
+  <li>https://caniuse.com/#home</li>
+  <li>https://modernizr.com/</li>
+  <li>http://html5please.com/</li>
+  </ul>
 
--- css3
-  - https://meyerweb.com/eric/tools/css/reset/
-  - http://lesscss.org/
+<p>css3</p>
+  <q>https://meyerweb.com/eric/tools/css/reset/</q>
+  <q>http://lesscss.org/</q>
 
--- TypeScript
-  - https://requirejs.org/
-  - https://www.typescriptlang.org/
+<p>TypeScript</p>
+  <q>https://requirejs.org/</q>
+  <q>https://www.typescriptlang.org/</q>
 
--- NodeJS
-  - https://nodejs.org/en/ 
-  - https://www.npmjs.com/
-  - https://mochajs.org/
-  - https://koajs.com/
-  - https://jshint.com
-  - https://coffeescript.org/
-  - https://www.npmjs.com/package/rimraf ->> The UNIX command rm -rf for Node.js
+<p>NodeJS</p>
+  <ul>
+    <li>https://nodejs.org/en/ 
+    <li>https://www.npmjs.com/
+    <li>https://mochajs.org/
+    <li>https://koajs.com/
+    <li>https://jshint.com
+    <li>https://coffeescript.org/
+    <li>https://www.npmjs.com/package/rimraf ->> The UNIX command rm -rf for Node.js
     Deep deletion (like rm -rf) module for Node.js that provides asynchronous deep- deletion of files and directories.
     The rimraf executable is a faster alternative to the rm -rf shell command.
-  - http://lesscss.org/
-  - http://browserify.org/
-  - https://www.npmjs.com/package/uglifyjs-webpack-plugin ->> UglifyJS is a JavaScript compressor/minifier written in           JavaScript. It also contains tools that allow one to automate working with JavaScript code: A parser which produces an       abstract syntax tree (AST) from JavaScript code.                                                                             A compressor (optimizer) — it uses the transformer API to optimize  an AST into a smaller one.
-  - https://www.npmjs.com/package/watch
-  - https://nodemon.io/ ->> Nodemon is a utility that will monitor for any changes in your source and automatically restart     your server. Perfect for development.
-  - https://www.npmjs.com/package/live-reload - A live reload server & client
-  - https://semver.org/
-  - https://www.gitignore.io/
-  - https://www.heroku.com/
-  
+    <li>http://lesscss.org/
+    <li>http://browserify.org/
+    <li>https://www.npmjs.com/package/uglifyjs-webpack-plugin ->> UglifyJS is a JavaScript compressor/minifier written in           JavaScript. It also contains tools that allow one to automate working with JavaScript code: A parser which produces an       abstract syntax tree (AST) from JavaScript code.                                                                             A compressor (optimizer) — it uses the transformer API to optimize  an AST into a smaller one.
+  <li>https://www.npmjs.com/package/watch
+  <li>https://nodemon.io/ ->> Nodemon is a utility that will monitor for any changes in your source and automatically restart     your server. Perfect for development.
+  <li>https://www.npmjs.com/package/live-reload - A live reload server & client
+  <li>https://semver.org/
+  <li>https://www.gitignore.io/
+  <li>https://www.heroku.com/
+       </ul>
 -- Create a localserver
   - https://expressjs.com/
 
