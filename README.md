@@ -28,6 +28,7 @@ This is inicial weapon of knowledge
 - http://www.kes.do/knowledge
 - http://www.theverge.com/
 - https://insights.stackoverflow.com/survey/2017#developer-profile-specific-developer-types
+- https://www.tiobe.com/tiobe-index/
 - http://www.guj.com.br/
 - http://httparchive.org/
 
