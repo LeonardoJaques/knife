@@ -221,3 +221,9 @@ Download de apk - https://apkpure.com/
       <li>CODE Reviews  https://codeclimate.com/ </li>
       <li>Deep performance analytics  https://newrelic.com/about </li>
     </ul>
+-- Js Advanced
+  <ul>
+    <li>https://developer.mozilla.org/pt-BR/docs/Web/JavaScript</li>
+    <li>https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR </li>
+    <li>https://www.ecma-international.org/ecma-262/6.0/#sec-promise-objects </li>
+  </ul>
