@@ -206,6 +206,11 @@ Download de apk - https://apkpure.com/
     <ol>
  </ul>
 
+<ul> -- for test React
+  <ol>
+    <li>https://jestjs.io/</li>
+  <ol>  
+</ul>
 -- Mock Http
   - https://json-schema.org/ ->> JSON Schema is a vocabulary that allows you to annotate and validate JSON documents.
  
