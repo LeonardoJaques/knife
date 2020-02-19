@@ -235,3 +235,9 @@ Download de apk - https://apkpure.com/
     <li>https://github.com/rwaldron/idiomatic.js/tree/master/translations/pt_BR </li>
     <li>https://www.ecma-international.org/ecma-262/6.0/#sec-promise-objects </li>
   </ul>
+
+-- Ideias of projects and study
+<ul>
+  <li> https://github.com/florinpop17/app-ideas/blob/master/README.md </li>
+  <li> https://github.com/jlevy/the-art-of-command-line/blob/master/README.md</li>
+</ul>
